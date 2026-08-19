@@ -16,7 +16,7 @@ presented through a React + TypeScript frontend.
 ## Table of contents
 
 - [Overview](#overview)
-- [Demo / Screenshots](#demo--screenshots)
+- [Demo / Screenshots](#demo)
 - [Architecture](#architecture)
 - [Tech stack](#tech-stack)
 - [Model](#model)
