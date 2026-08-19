@@ -8,8 +8,8 @@ Built on a YOLOv11 object detection model, fine-tuned on a labeled
 construction-safety dataset, served through a FastAPI backend, and
 presented through a React + TypeScript frontend.
 
-> **Live demo:** [add your deployed Vercel URL here]
-> **Model training notebook:** [add your Kaggle notebook link here]
+> Live demo: [https://ppe-detection-app.vercel.app]
+> **Model training notebook:** [https://www.kaggle.com/code/azizaergasheva/ppe-detection-with-yolov11]
 
 ---
 
@@ -128,7 +128,7 @@ https://github.com/user-attachments/assets/1f4cc83b-60ae-4b03-89c0-5deb770da27c
 | Precision | _fill in_ |
 | Recall | _fill in_ |
 
-**Training notebook:** [link to your Kaggle notebook] — includes dataset
+**Training notebook:** [[link to your Kaggle noteboo](https://www.kaggle.com/code/azizaergasheva/ppe-detection-with-yolov11)k] — includes dataset
 exploration, class-balance debugging (an earlier 25-class dataset version
 had severe class imbalance that was diagnosed and fixed by switching to a
 cleaner 10-class dataset version), and full evaluation plots.
@@ -150,7 +150,7 @@ ppe-fullstack/
 │   │   └── best.pt          # trained model weights (not committed — see below)
 │   ├── requirements.txt
 │   ├── Dockerfile
-│   └── .env.example
+│   └── .env
 ├── frontend/
 │   ├── src/
 │   │   ├── App.tsx
@@ -159,7 +159,7 @@ ppe-fullstack/
 │   │   └── types.ts
 │   ├── package.json
 │   ├── tailwind.config.js
-│   └── .env.example
+│   └── .env
 └── README.md
 ```
 
