@@ -50,15 +50,13 @@ verdict in under a second.
 
 ---
 
-## Demo / Screenshots
+## Demo 
 
-> Replace this section with actual screenshots once deployed — a "before
-> upload / after upload with boxes" pair and a screenshot of the analytics
-> tab make this section land well.
 
-| Scan | Analytics |
-|---|---|
-| _screenshot here_ | _screenshot here_ |
+https://github.com/user-attachments/assets/1f4cc83b-60ae-4b03-89c0-5deb770da27c
+
+
+
 
 ---
 
