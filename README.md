@@ -122,12 +122,12 @@ https://github.com/user-attachments/assets/1f4cc83b-60ae-4b03-89c0-5deb770da27c
 
 | Metric | Value |
 |---|---|
-| mAP50 | _fill in from your `results.csv` / final `model.val()` run_ |
-| mAP50-95 | _fill in_ |
-| Precision | _fill in_ |
-| Recall | _fill in_ |
+| mAP50 | 0.861 |
+| mAP50-95 | 0.581 |
+| Precision | 0.925 |
+| Recall | 0.804 |
 
-**Training notebook:** [[link to your Kaggle notebook](https://www.kaggle.com/code/azizaergasheva/ppe-detection-with-yolov11)] — includes dataset
+**Training notebook:** [[link to Kaggle notebook](https://www.kaggle.com/code/azizaergasheva/ppe-detection-with-yolov11)] — includes dataset
 exploration, class-balance debugging (an earlier 25-class dataset version
 had severe class imbalance that was diagnosed and fixed by switching to a
 cleaner 10-class dataset version), and full evaluation plots.
