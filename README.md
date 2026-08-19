@@ -27,7 +27,6 @@ presented through a React + TypeScript frontend.
 - [Deployment](#deployment)
 - [Known limitations](#known-limitations)
 - [Roadmap](#roadmap)
-- [License](#license)
 
 ---
 
