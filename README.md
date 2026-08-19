@@ -128,7 +128,7 @@ https://github.com/user-attachments/assets/1f4cc83b-60ae-4b03-89c0-5deb770da27c
 | Precision | _fill in_ |
 | Recall | _fill in_ |
 
-**Training notebook:** [[link to your Kaggle noteboo](https://www.kaggle.com/code/azizaergasheva/ppe-detection-with-yolov11)k] — includes dataset
+**Training notebook:** [[link to your Kaggle notebook](https://www.kaggle.com/code/azizaergasheva/ppe-detection-with-yolov11)] — includes dataset
 exploration, class-balance debugging (an earlier 25-class dataset version
 had severe class imbalance that was diagnosed and fixed by switching to a
 cleaner 10-class dataset version), and full evaluation plots.
@@ -272,7 +272,7 @@ threshold for stricter/looser matching.
 4. Add environment variables from `.env` in the Render dashboard
    (`MODEL_WEIGHTS_PATH`, `CONFIDENCE_THRESHOLD`, `CORS_ORIGINS`,
    `DATABASE_URL`).
-5. Deploy. Note the resulting URL (e.g. `https://site-watch-api.onrender.com`).
+5. Deploy. [https://ppe-detection-app-9fn9.onrender.com].
 
 **Free-tier memory note:** `yolo11s` runs fine on Render's free tier. If you
 trained on a larger checkpoint (`yolo11m`/`l`) and hit an out-of-memory
