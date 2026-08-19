@@ -271,7 +271,7 @@ threshold for stricter/looser matching.
    Directory** to `backend`.
 3. Render will detect the `Dockerfile` automatically — no build command
    needed.
-4. Add environment variables from `.env.example` in the Render dashboard
+4. Add environment variables from `.env` in the Render dashboard
    (`MODEL_WEIGHTS_PATH`, `CONFIDENCE_THRESHOLD`, `CORS_ORIGINS`,
    `DATABASE_URL`).
 5. Deploy. Note the resulting URL (e.g. `https://site-watch-api.onrender.com`).
@@ -329,3 +329,4 @@ browser console.
 
 - Dataset: [Construction Site Safety Image Dataset](https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety) (Roboflow Universe)
 - Base model: [Ultralytics YOLOv11](https://github.com/ultralytics/ultralytics)
+- Kaggle notebook: [PPE Detection](https://www.kaggle.com/code/azizaergasheva/ppe-detection-with-yolov11)
